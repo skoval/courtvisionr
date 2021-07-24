@@ -1,0 +1,10 @@
+Package: courtvisionr
+Version: 0.1
+Date: 2020-01-21
+Title: Functions to extract court vision data for Grand Slam analysis
+Author: Steph Kovalchik [aut, cre]
+Maintainer: Steph Kovalchik <skovalchik@zelusanalytics.com>
+Depends: data.table, jsonlite, glue
+Description: Functions to extract court vision data for Grand Slam analysis
+License: GPL (>= 2)
+RoxygenNote: 7.1.1
