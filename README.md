@@ -36,7 +36,7 @@ Match does follow a specific formula and are the same from year to year (at leas
 
 
 Event | Event Type | Formula | Example 
-:-----:|:-----:||:-----:||:-----:
+:-----:|:-----:|:-----:|:-----:
  Roland Garros |  Men's Singles | SM### | SM001 (Final match) 
  | Women's Singles | SD### | SD127 (First match)  
  | Men's Doubles | DM### | DM001 (Final) 
