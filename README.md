@@ -34,18 +34,19 @@ There are other data elements that are also available (rally analysis, matchbeat
 
 Match does follow a specific formula and are the same from year to year (at least so far). They do differ at each event, however. Below is a general guide:
 
-| Event | Event Type | Formula | Example |
-|:-----:|:-----:||:-----:||:-----:|
-| Roland Garros |  Men's Singles | SM### | SM001 (Final match) |
-| | Women's Singles | SD### | SD127 (First match)  |
-| | Men's Doubles | DM### | DM001 (Final) |
-| | Women's Doubles | DD### | DD001 (Final) |
-| | Mixed Doubles | MX### | MX001 (Final) |
-| Australian Open |  Men's Singles | MS### | MS701 (Final match) |
-| | Women's Singles | WS### | WS001 (First match)  |
-| | Men's Doubles | MD### | MD601 (Final) |
-| | Women's Doubles | WD### | WD001 (Final) |
-| | Mixed Doubles | XD### | XD501 (Final) |
+
+Event | Event Type | Formula | Example 
+:-----:|:-----:||:-----:||:-----:
+ Roland Garros |  Men's Singles | SM### | SM001 (Final match) 
+ | Women's Singles | SD### | SD127 (First match)  
+ | Men's Doubles | DM### | DM001 (Final) 
+ | Women's Doubles | DD### | DD001 (Final) 
+ | Mixed Doubles | MX### | MX001 (Final) 
+ Australian Open |  Men's Singles | MS### | MS701 (Final match) 
+ | Women's Singles | WS### | WS001 (First match)  
+ | Men's Doubles | MD### | MD601 (Final) 
+ | Women's Doubles | WD### | WD001 (Final) 
+ | Mixed Doubles | XD### | XD501 (Final) 
 
 So all matchids have a 2-character event code and then 3 digits. For Roland Garros the digit is the match number starting from the biggest number and working toward 1 for the final. For the Australian Open, the first digit is the round (beginning with 1 and working up) and then a 2-digit match number starting at 1 and working up within each round. 
 
